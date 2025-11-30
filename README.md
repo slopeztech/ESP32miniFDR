@@ -317,10 +317,10 @@ The system uses an RGB LED to communicate status:
 
 | Color | Status | Description |
 |-------|--------|-------------|
+| 🔴 **Blinking** | Boot | Startup sequence (10 blinks) |
 | 🔵 **Blue** | Ready | System initialized, AP active, idle |
 | 🟢 **Green** | Recording | FDR actively logging data |
 | 🔴 **Red** | Error | System error or failure |
-| ⚪ **Blinking** | Boot | Startup sequence (10 blinks) |
 | ⚫ **Off** | Shutdown | Device off or sleep mode |
 
 ## 🔍 Troubleshooting
