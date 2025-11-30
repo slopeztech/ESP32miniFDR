@@ -27,7 +27,6 @@ A comprehensive ESP32-C3 based Flight Data Recorder system designed specifically
 - [LED Status Indicators](#led-status-indicators)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🔧 Hardware Requirements
 
@@ -459,10 +458,6 @@ git clone https://github.com/yourusername/ESP32miniFDR.git
 cd ESP32miniFDR
 pio run
 ```
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👨‍💻 Author
 
