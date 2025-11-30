@@ -1,6 +1,6 @@
 # ESP32 Mini FDR (Flight Data Recorder)
 
-A comprehensive ESP32-C3 based Flight Data Recorder system with barometric pressure sensing, Wi-Fi Access Point capability, and real-time data logging with HTTP API access.
+A comprehensive ESP32-C3 based Flight Data Recorder system designed specifically for amateur rocketry applications. This compact, reliable data acquisition system features barometric pressure sensing, Wi-Fi Access Point capability, and real-time data logging with HTTP API access, perfect for capturing flight telemetry during amateur rocket launches.
 
 ## 🚀 Features
 
