@@ -69,7 +69,7 @@ All dependencies are automatically managed via PlatformIO's `lib_deps` configura
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ESP32miniFDR.git
+git clone [https://github.com/yourusername/ESP32miniFDR.git](https://github.com/slopeztech/ESP32miniFDR)
 cd ESP32miniFDR
 ```
 
@@ -483,3 +483,4 @@ pio run
 **Version**: 1.0.0  
 **Last Updated**: November 30, 2025  
 **Status**: Production Ready ✅
+
